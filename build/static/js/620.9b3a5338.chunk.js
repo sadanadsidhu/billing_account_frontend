@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbilling_app_frontend=self.webpackChunkbilling_app_frontend||[]).push([[620],{620:(n,e,s)=>{s.r(e),s.d(e,{default:()=>l});s(791);var t=s(87),i=s(689),p=s(184);const l=n=>{let{isAuthenticated:e,...s}=n;return e?(0,p.jsx)(i.Z5,{children:(0,p.jsx)(i.AW,{...s})}):(0,p.jsx)(t.rU,{to:"/signup"===s.path?"/signup":"/signin"})}}}]);
+//# sourceMappingURL=620.9b3a5338.chunk.js.map
